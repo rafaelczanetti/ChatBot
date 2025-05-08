@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Environment files
+.env
+.flaskenv
+*.env
+.env.*
+config_dev.py
+config_prod.py
+secrets.py
+credentials.json
+secret_key.txt
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+log/
+logs/
+
+# OS specific files
+.DS_Store
+Thumbs.db 

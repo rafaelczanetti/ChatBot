@@ -1,0 +1,23 @@
+{
+    "greetings": {
+        "patterns": ["olá", "oi", "bom dia", "boa tarde", "boa noite", "hey"],
+        "responses": ["Olá! Como posso ajudar?", "Oi! Em que posso ser útil hoje?"]
+    },
+    "goodbye": {
+        "patterns": ["tchau", "adeus", "até logo", "até mais"],
+        "responses": ["Até logo!", "Tenha um bom dia!", "Obrigado por conversar comigo!"]
+    },
+    "help": {
+        "patterns": ["ajuda", "preciso de ajuda", "pode me ajudar", "socorro"],
+        "responses": ["Claro! Como posso ajudar?", "Estou aqui para ajudar. O que você precisa?"]
+    },
+    "about": {
+        "patterns": ["quem é você", "o que você faz", "me fale sobre você", "sobre você"],
+        "responses": ["Sou um chatbot de demonstração criado para fornecer assistência básica.", "Sou um assistente virtual que pode responder a perguntas simples."]
+    },
+    "fallback": {
+        "responses": ["Desculpe, não entendi. Pode reformular?", 
+                     "Não tenho certeza do que você quer dizer.",
+                     "Poderia explicar de outra forma?"]
+    }
+} 
