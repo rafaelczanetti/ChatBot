@@ -109,5 +109,6 @@ O design é totalmente responsivo e se adapta a dispositivos móveis e desktop.
 - Ícones SVG para mensagens do usuário e do chatbot
 - Efeitos suaves de transição para melhor experiência do usuário
 
-![Captura de tela 2025-05-08 111642](https://github.com/user-attachments/assets/cc54cd5a-d330-485d-8e22-af4dacf35566)
+![image](https://github.com/user-attachments/assets/dd97fa5a-5b63-4c6e-becc-62ecf6aed0b1)
+
 
