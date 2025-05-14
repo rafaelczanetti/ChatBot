@@ -1,6 +1,6 @@
-# Flask Chatbot
+# Chatbot
 
-Um chatbot simples desenvolvido em Flask para responder a consultas do usuário em português.
+Um chatbot simples desenvolvido em Flask para responder a consultas do usuário.
 
 ## Funcionalidades
 
